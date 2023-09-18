@@ -25,8 +25,8 @@ Obtain the graph.
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: ISHAQ HUSSAIN A
-RegisterNumber: 212221040059
+Developed by: P.KARTHICK
+RegisterNumber: 212221040072
 */
 ```
 ```python
